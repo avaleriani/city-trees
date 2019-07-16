@@ -2,15 +2,15 @@
 
 
 
-#Buenos Aires City tree map
+# Buenos Aires City tree map
+ 
 
-
-###Install
+### Install
 
 `npm run pre`
 
 `yarn install`
 
-###Minified build and run a server
+### Minified build and run a server
 
 `yarn start`
